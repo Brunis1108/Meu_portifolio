@@ -1,0 +1,32 @@
+p{
+    font-family: "LXGW Marker Gothic", sans-serif;
+}
+.biografia {
+    padding: 1rem 2rem;
+    text-align: justify;
+    max-width: 900px; /* Limita o texto para não ficar muito esticado em telas largas */
+}
+
+.biografia h1, .biografia h3 {
+    text-align: left;
+    margin-bottom: 0.5rem;
+}
+
+.biografia p {
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.biografia article {
+    margin-bottom: 2rem;
+}
+
+.sub-list {
+    padding-left: 1.5rem; /* Faz a lista começar mais à esquerda */
+    text-align: justify;
+}
+
+.sub-list li {
+    margin-bottom: 0.8rem;
+    line-height: 1.5;
+}

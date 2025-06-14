@@ -1,0 +1,52 @@
+/* Estilos específicos para a página Home */
+.destaque {
+    text-align: center;
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    
+}
+
+.apresentacao {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+   
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #000000;
+    margin-bottom: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cta-button {
+  padding: 10px 20px;
+  background-color: #3f2eb0;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  display: inline-block;
+  transition: background-color 0.3s;
+  margin-top: 10px;
+}
+.cta-button:hover {
+  background-color: #5b4bcc;
+}
+
+
+p{
+    font-family: "LXGW Marker Gothic", sans-serif;
+}
