@@ -66,4 +66,14 @@ html,body {
     padding: 10px;
     margin-top: 0;
 }
+#Avaliado{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color: red;
+    font-weight: bold; /* opcional, deixa em negrito */
+    font-size: 20px; /* ajuste o tamanho se quiser */
+    background: transparent; /* ou coloque uma cor de fundo se quiser */
+    margin: 0; /* para evitar margens que atrapalhem */
+}
 
